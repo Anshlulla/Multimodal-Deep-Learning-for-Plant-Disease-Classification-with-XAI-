@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=2.4.3
+pandas>=3.0.1
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+# Image processing & computer vision
+pillow>=12.1.1
+scikit-image>=0.26.0
+opencv-python>=4.13.0.92
+
+# Machine learning & data science
+scikit-learn>=1.8.0
+tensorflow>=2.21.0
+
+# Development & Jupyter
+ipykernel>=7.2.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Utilities
+python-dotenv>=1.2.2
+tqdm>=4.67.3
